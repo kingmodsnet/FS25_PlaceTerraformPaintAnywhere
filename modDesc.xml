@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+    <author>KingMods</author>
+	<version>1.0.0.0</version>
+	<title>
+        <en>Place, Terraform and Paint Anywhere (KingMods)</en>
+	</title>
+    <description>
+		<en>Allows you to free yourself from all construction limits.</en>
+		<fr>Permet de s'affranchir de toutes limites de construction.</fr>
+		<de>Ermöglicht es Ihnen, sich von allen Konstruktionsbeschränkungen zu befreien.</de>
+	</description>
+    <multiplayer supported="true" />
+    <iconFilename>icon_placeTerraformPaintAnywhere_kingMods.dds</iconFilename>    
+	<extraSourceFiles>
+        <sourceFile filename="PlaceTerraformPaintAnywhere_KingMods.lua" />
+    </extraSourceFiles>
+</modDesc>
